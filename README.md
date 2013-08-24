@@ -1,3 +1,8 @@
+# Old School Color Scheme
+I liked the starting point but I wanted to make an old school green on black theme so there's little resemblance to the original anymore. I should replace the screenshots in this readme.
+
+"I have my grandfather's ax.  My father replaced the head and I replaced the haft."
+
 # Neon Color Scheme
 ###### I renamed the package from `Neon Theme` as this is [really a color scheme](https://github.com/MattDMo/Neon-sublime-theme/issues/4) and I don't want to mislead/confuse anyone. However, I am working on an actual Neon-inspired **theme** for Sublime, so stay tuned... 
 
